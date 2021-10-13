@@ -1,0 +1,8 @@
+
+*.cache
+simple-NodeJs-server/obj/Debug/
+.vs/
+simple-NodeJs-server/simple-NodeJs-server.njsproj
+simple-NodeJs-server/simple-NodeJs-server.njsproj.user
+simple-NodeJs-server/bin/Microsoft.NodejsTools.WebRole.dll
+simple-NodeJs-server.sln
